@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on exciting software projects using DevOps principles.
 - 💬 Ask me about DevOps and Cloud.
 - 📫 How to reach me: vrthamizharasan@gmail.com
--
+
 My Special Skills Are:
 Amazon Web Services (AWS);
 AWS DevOps;
