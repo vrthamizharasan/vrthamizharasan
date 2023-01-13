@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+⚡ Domains
+DevOps
+Cloud
+Development
+⚡ Tech Stack
+Git GitHub GitLab Linux AWS DO Docker Synk Kubernetes Rancher Jenkins Ansible Terraform Prom Grafana Python C Go MD Flask Django MySQL VS GitHub Actions Post Jira Heroku RaspberryPi Arduino ZigBee
